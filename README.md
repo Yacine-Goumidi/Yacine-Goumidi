@@ -23,4 +23,4 @@ I love building **responsive web applications** and improving **UI/UX design**.
 ## 📫 Contact
 - **GitHub:** (https://github.com/Yacine-Goumidi)
 - **LinkedIn:** (www.linkedin.com/in/yacine-goumidi)  
-- **Email:** (mailto:yacine.gou@outlook.fr)
+- **Email:** (yacine.gou@outlook.fr)
