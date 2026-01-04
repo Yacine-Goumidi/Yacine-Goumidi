@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Yacine Goumidi 👋
 
-<!--
-**Yacine-Goumidi/Yacine-Goumidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Junior Frontend Developer** with a creative background in **Game Design and Visual Arts**.  
+I love building **responsive web applications** and improving **UI/UX design**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently working on
+- **Frontend projects using React, HTML, CSS, and JavaScript**  
+- Creating **interactive web apps and dynamic components**  
+- Developing my **personal portfolio** and coding skills
+
+---
+
+## 🛠️ Tools & Tech
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3  
+- **Version control:** Git, GitHub  
+- **Design & Graphics:** Adobe Photoshop, Illustrator, Blender  
+- **Other skills:** UI/UX Design, Responsive Design, Component Architecture
+
+---
+
+## 📫 Contact
+- **GitHub:** [[https://github.com/TonUsername]((https://github.com/Yacine-Goumidi))]  
+- **LinkedIn:** [https://www.linkedin.com/in/TonProfil](www.linkedin.com/in/yacine-goumidi)  
+- **Email:** [ton.email@example.com](mailto:yacine.gou@outlook.fr)
