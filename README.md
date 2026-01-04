@@ -21,6 +21,6 @@ I love building **responsive web applications** and improving **UI/UX design**.
 ---
 
 ## 📫 Contact
-- **GitHub:** [[https://github.com/TonUsername]((https://github.com/Yacine-Goumidi))]  
-- **LinkedIn:** [https://www.linkedin.com/in/TonProfil](www.linkedin.com/in/yacine-goumidi)  
-- **Email:** [ton.email@example.com](mailto:yacine.gou@outlook.fr)
+- **GitHub:** (https://github.com/Yacine-Goumidi)
+- **LinkedIn:** (www.linkedin.com/in/yacine-goumidi)  
+- **Email:** (mailto:yacine.gou@outlook.fr)
