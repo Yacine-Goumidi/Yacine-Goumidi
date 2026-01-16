@@ -1,26 +1,29 @@
-# Hi, I'm Yacine Goumidi 👋
+# 👋 Hi, I'm Yacine Goumidi
 
-I am a **Junior Frontend Developer** with a creative background in **Game Design and Visual Arts**.  
-I love building **responsive web applications** and improving **UI/UX design**.
-
----
-
-## 🚀 Currently working on
-- **Frontend projects using React, HTML, CSS, and JavaScript**  
-- Creating **interactive web apps and dynamic components**  
-- Developing my **personal portfolio** and coding skills
+I am a **Junior Frontend Developer** with a creative background in **Game Design** and **Visual Arts**.  
+Passionate about building **responsive web applications** and enhancing **UI/UX design**, I strive to create seamless, user-centric experiences.
 
 ---
 
-## 🛠️ Tools & Tech
+## 🚀 What I'm Working On
+
+- Building **responsive and interactive web apps** using **React**, **JavaScript**, **HTML**, and **CSS**  
+- Improving **UI/UX design** and exploring **dynamic components**  
+- Continuously developing my **personal portfolio** and **coding skills**
+
+---
+
+## 🛠️ Technologies & Tools
+
 - **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3  
-- **Version control:** Git, GitHub  
+- **Version Control:** Git, GitHub  
 - **Design & Graphics:** Adobe Photoshop, Illustrator, Blender  
-- **Other skills:** UI/UX Design, Responsive Design, Component Architecture
+- **Other Skills:** UI/UX Design, Responsive Design, Component Architecture
 
 ---
 
-## 📫 Contact
-- **GitHub:** (https://github.com/Yacine-Goumidi)
-- **LinkedIn:** (www.linkedin.com/in/yacine-goumidi)  
-- **Email:** (yacine.gou@outlook.fr)
+## 📫 Let's Connect
+
+- **GitHub:** [Yacine-Goumidi](https://github.com/Yacine-Goumidi)  
+- **LinkedIn:** [Yacine Goumidi](https://www.linkedin.com/in/yacine-goumidi)  
+- **Email:** yacine.gou@outlook.fr
