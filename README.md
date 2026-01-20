@@ -1,29 +1,55 @@
-# 👋 Hi, I'm Yacine Goumidi
+👋 Hi, I'm Yacine Goumidi
 
-I am a **Junior Frontend Developer** with a creative background in **Game Design** and **Visual Arts**.  
-Passionate about building **responsive web applications** and enhancing **UI/UX design**, I strive to create seamless, user-centric experiences.
+I am a **Junior Backend / Fullstack Developer** with a strong foundation in web development and a creative background in Game Design, UI/UX, and Visual Arts.
 
----
-
-## 🚀 What I'm Working On
-
-- Building **responsive and interactive web apps** using **React**, **JavaScript**, **HTML**, and **CSS**  
-- Improving **UI/UX design** and exploring **dynamic components**  
-- Continuously developing my **personal portfolio** and **coding skills**
+I design and build **scalable, secure, and maintainable web applications**, with a focus on backend logic, APIs, databases, and clean architecture.  
+My creative background allows me to approach technical problems with a **user-centered and structured mindset**.
 
 ---
 
-## 🛠️ Technologies & Tools
+🚀 What I'm Working On
 
-- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3  
-- **Version Control:** Git, GitHub  
-- **Design & Graphics:** Adobe Photoshop, Illustrator, Blender  
-- **Other Skills:** UI/UX Design, Responsive Design, Component Architecture
+- Developing backend services using **Node.js and Express**
+- Designing and implementing **REST APIs**
+- Working with **MongoDB** for data persistence
+- Building full-stack applications with **React + Node.js**
+- Improving authentication, authorization (JWT), and application architecture
+- Continuously learning backend best practices and system design
 
 ---
 
-## 📫 Let's Connect
+🛠️ Technologies & Tools
 
-- **GitHub:** [Yacine-Goumidi](https://github.com/Yacine-Goumidi)  
-- **LinkedIn:** [Yacine Goumidi](https://www.linkedin.com/in/yacine-goumidi)  
-- **Email:** yacine.gou@outlook.fr
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+- MongoDB
+- JWT Authentication
+
+**Frontend**
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+**Tools & Workflow**
+- Git & GitHub
+- VS Code
+- API testing (Postman)
+- PDF generation
+- Agile / Self-directed projects
+
+**Design & UX (Background)**
+- UI/UX Design
+- Adobe Photoshop
+- Illustrator
+- Blender
+
+---
+
+📫 Let's Connect
+
+- GitHub: https://github.com/Yacine-Goumidi  
+- LinkedIn: https://www.linkedin.com/in/yacinegoumidi  
+- Email: yacine.gou@outlook.fr
