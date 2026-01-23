@@ -36,6 +36,7 @@ My creative background allows me to approach technical problems with a **user-ce
 **Tools & Workflow**
 - Git & GitHub
 - VS Code
+- Jet Brain Rider
 - API testing (Postman)
 - PDF generation
 - Agile / Self-directed projects
