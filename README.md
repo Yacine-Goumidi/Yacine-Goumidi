@@ -44,7 +44,6 @@ My creative background allows me to approach technical problems with a **user-ce
 **Design & UX (Background)**
 - UI/UX Design
 - Adobe Photoshop
-- Illustrator
 - Blender
 
 ---
