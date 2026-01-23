@@ -45,6 +45,7 @@ My creative background allows me to approach technical problems with a **user-ce
 - UI/UX Design
 - Adobe Photoshop
 - Blender
+- Nomad Sculpt
 
 ---
 
