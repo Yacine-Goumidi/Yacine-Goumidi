@@ -1,4 +1,4 @@
-👋 Hi, I'm Yacine Goumidi
+Hi, I'm Yacine Goumidi
 
 I am a **Junior Backend / Fullstack Developer** with a strong foundation in web development and a creative background in Game Design, UI/UX, and Visual Arts.
 
@@ -7,7 +7,7 @@ My creative background allows me to approach technical problems with a **user-ce
 
 ---
 
-🚀 What I'm Working On
+What I'm Working On
 
 - Developing backend services using **Node.js and Express**
 - Designing and implementing **REST APIs**
@@ -18,7 +18,7 @@ My creative background allows me to approach technical problems with a **user-ce
 
 ---
 
-🛠️ Technologies & Tools
+Technologies & Tools
 
 **Backend**
 - Node.js
