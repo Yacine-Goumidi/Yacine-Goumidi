@@ -29,7 +29,7 @@ Technologies & Tools
 
 **Frontend**
 - React.js
-- JavaScript (ES6+)
+- JavaScript
 - HTML5
 - CSS3
 
