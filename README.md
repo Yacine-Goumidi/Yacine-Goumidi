@@ -44,6 +44,7 @@ Technologies & Tools
 **Design & UX (Background)**
 - UI/UX Design
 - Adobe Photoshop
+- Procreate
 - Blender
 - Nomad Sculpt
 
