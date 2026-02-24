@@ -1,57 +1,79 @@
-Hi, I'm Yacine Goumidi
+# 👋 Hi, I'm Yacine Goumidi
 
-I am a **Junior Backend / Fullstack Developer** with a strong foundation in web development and a creative background in Game Design, UI/UX, and Visual Arts.
+## 🚀 Junior Backend / Fullstack Developer & Game Designer
 
-I design and build **scalable, secure, and maintainable web applications**, with a focus on backend logic, APIs, databases, and clean architecture.  
-My creative background allows me to approach technical problems with a **user-centered and structured mindset**.
+I am a Junior Backend / Fullstack Developer with a strong foundation in web development and a creative background in **Game Design, UI/UX, and Visual Arts**.
+
+I design and build **scalable, secure, and maintainable web applications**, with a focus on backend logic, APIs, databases, and clean architecture.
+
+My background in Game Design allows me to think in terms of **systems, mechanics, balance, interaction loops, and user engagement**, giving me a structured and user-centered approach to problem-solving.
+
+I combine **technical precision with creative systems thinking** to build products that are both robust and intuitive.
 
 ---
 
-What I'm Working On
+## 🛠 What I'm Currently Working On
 
-- Developing backend services using **Node.js and Express**
+- Developing backend services using **Node.js & Express**
 - Designing and implementing **REST APIs**
 - Working with **MongoDB** for data persistence
 - Building full-stack applications with **React + Node.js**
-- Improving authentication, authorization (JWT), and application architecture
-- Continuously learning backend best practices and system design
+- Improving authentication & authorization systems (JWT)
+- Applying **game design principles** to product systems and user flows
+- Designing gameplay mechanics and progression systems
+- Strengthening backend architecture and system design knowledge
 
 ---
 
-Technologies & Tools
+## 💻 Tech Stack
 
-**Backend**
+### Backend
 - Node.js
 - Express.js
 - REST APIs
 - MongoDB
 - JWT Authentication
 
-**Frontend**
+### Frontend
 - React.js
-- JavaScript
+- JavaScript (ES6+)
 - HTML5
 - CSS3
 
-**Tools & Workflow**
-- Git & GitHub
-- VS Code
-- Jet Brain Rider
-- API testing (Postman)
-- PDF generation
-- Agile / Self-directed projects
+### 🎮 Game Design
+- Game Mechanics Design
+- Gameplay Systems
+- Balancing & Progression Design
+- Player Experience (PX)
+- Systems Thinking
 
-**Design & UX (Background)**
+### 🎨 Design & 3D
 - UI/UX Design
 - Adobe Photoshop
 - Procreate
 - Blender
 - Nomad Sculpt
 
+### 🔧 Tools & Workflow
+- Git & GitHub
+- VS Code
+- JetBrains Rider
+- Postman (API Testing)
+- Agile / Self-Directed Projects
+
 ---
 
-📫 Let's Connect
+## 🌱 Mindset
 
-- GitHub: https://github.com/Yacine-Goumidi  
-- LinkedIn: https://www.linkedin.com/in/yacinegoumidi  
+- Clean and maintainable architecture
+- Security-first backend development
+- System thinking inspired by game design
+- Continuous learning & improvement
+
+---
+
+## 📫 Let's Connect
+
+- GitHub: [Yacine-Goumidi](https://github.com/Yacine-Goumidi)
+- LinkedIn: [yachinegoumidi](https://www.linkedin.com/in/yacinegoumidi)
 - Email: yacine.gou@outlook.fr
