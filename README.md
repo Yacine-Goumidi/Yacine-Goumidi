@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Yacine Goumidi
+# Hi, I'm Yacine Goumidi
 
-## 🚀 Junior Backend / Fullstack Developer & Game Designer
+## Junior Backend / Fullstack Developer & Game Designer
 
 I am a Junior Backend / Fullstack Developer with a strong foundation in web development and a creative background in **Game Design, UI/UX, and Visual Arts**.
 
@@ -12,7 +12,7 @@ I combine **technical precision with creative systems thinking** to build produc
 
 ---
 
-## 🛠 What I'm Currently Working On
+## What I'm Currently Working On
 
 - Developing backend services using **Node.js & Express**
 - Designing and implementing **REST APIs**
@@ -25,7 +25,7 @@ I combine **technical precision with creative systems thinking** to build produc
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Backend
 - Node.js
@@ -40,21 +40,21 @@ I combine **technical precision with creative systems thinking** to build produc
 - HTML5
 - CSS3
 
-### 🎮 Game Design
+### Game Design
 - Game Mechanics Design
 - Gameplay Systems
 - Balancing & Progression Design
 - Player Experience (PX)
 - Systems Thinking
 
-### 🎨 Design & 3D
+### Design & 3D
 - UI/UX Design
 - Adobe Photoshop
 - Procreate
 - Blender
 - Nomad Sculpt
 
-### 🔧 Tools & Workflow
+### Tools & Workflow
 - Git & GitHub
 - VS Code
 - JetBrains Rider
@@ -63,7 +63,7 @@ I combine **technical precision with creative systems thinking** to build produc
 
 ---
 
-## 🌱 Mindset
+## Mindset
 
 - Clean and maintainable architecture
 - Security-first backend development
@@ -72,7 +72,7 @@ I combine **technical precision with creative systems thinking** to build produc
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - GitHub: [Yacine-Goumidi](https://github.com/Yacine-Goumidi)
 - LinkedIn: [yachinegoumidi](https://www.linkedin.com/in/yacinegoumidi)
