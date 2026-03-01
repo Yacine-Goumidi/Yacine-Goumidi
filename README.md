@@ -2,7 +2,7 @@
 
 ## 🎮 Game Designer & Web Developer  
 
-I am a **Game Designer and Web Developer** passionate about building interactive systems and digital experiences that are both technically solid and deeply engaging.
+I am a **Game Designer and Web Developer** passionate about building interactive systems and digital experiences.
 
 My work sits at the intersection of **game systems design and modern web development**. I design gameplay mechanics, progression systems, and player experiences. while also building the technical foundations that bring these systems to life through scalable and maintainable web applications.
 
